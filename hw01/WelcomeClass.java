@@ -1,5 +1,5 @@
 // Gabriel Gaydos
-// Hw01
+// hw01
 
 public class WelcomeClass {
     public static void main(String[ ] args) {
