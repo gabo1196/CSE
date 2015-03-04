@@ -69,7 +69,7 @@ public class WhichNumber {
                 str = str.toLowerCase();
                 input = str.charAt(0);
                 if (input == 'y') {
-                    System.out.println("your numebr is 9");
+                    System.out.println("your number is 9");
                 }
                 if (input == 'n') {
                     System.out.println("your number is 3");
